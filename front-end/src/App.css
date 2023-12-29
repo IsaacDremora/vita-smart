@@ -1,0 +1,53 @@
+td {
+border : 1px solid gray;
+}
+
+.second-wrapper {
+   margin-top: 10%;
+   display: flex;
+   justify-content: center;
+}
+
+.table {
+   border: 1px solid grey;
+}
+
+.edit-action {
+margin: 5px;
+}
+
+.wrapper {
+
+   margin-top: 5%;
+   display: flex;
+   justify-content: center;
+ }
+
+ .wrapper-content {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    padding-left: 10%;
+ }
+ 
+.form {
+    display: flex;
+    flex-direction: column;
+    padding-left:10%
+ }
+
+ .wrapper-buttons {
+    display: flex;
+   justify-content: space-between;
+   width: 100%;
+ }
+
+ input
+ {
+    padding : 5px;
+    margin : 5px
+ }
+
+
+
+ 

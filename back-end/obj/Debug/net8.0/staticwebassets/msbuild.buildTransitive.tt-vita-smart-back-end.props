@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tt-vita-smart-back-end.props" />
+</Project>
